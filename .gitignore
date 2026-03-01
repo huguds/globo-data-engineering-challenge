@@ -1,0 +1,3 @@
+# Ignorar o banco de dados SQLite gerado localmente
+data/*.db
+data/*.sqlite
